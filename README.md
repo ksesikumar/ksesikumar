@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 - Cloud-native development with AWS and Docker
 
 ## 💼 Currently Working
-- **Jr. Software Engineer** at MRV IT Solutions Private Limited
+- **MERN Full Stack Development trainee** @NxtWave  Hyderabad, Telangana, India.
 
 ## 💞️ Looking to Collaborate On
 - Open-source projects related to web development
